@@ -1,0 +1,25 @@
+Cross Valid: 1
+Best val_acc: 0.9959958667011108
+Best cf: 
+[[3533   16]
+ [  15 4178]]
+Cross Valid: 2
+Best val_acc: 0.9925083958865506
+Best cf: 
+[[3488   17]
+ [  41 4196]]
+Cross Valid: 3
+Best val_acc: 0.9918625678119349
+Best cf: 
+[[3464   38]
+ [  25 4215]]
+Cross Valid: 4
+Best val_acc: 0.9928958925342288
+Best cf: 
+[[3462   36]
+ [  19 4225]]
+Cross Valid: 5
+Best val_acc: 0.9930250581245156
+Best cf: 
+[[3416   30]
+ [  24 4272]]

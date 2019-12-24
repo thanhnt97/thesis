@@ -1,0 +1,4 @@
+start trainBest val_acc: 0.9786618444630725
+Best cf: 
+[[16910   590]
+ [  236 20974]]
